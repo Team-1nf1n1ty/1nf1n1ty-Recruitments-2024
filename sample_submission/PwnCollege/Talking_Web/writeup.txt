@@ -1,0 +1,9 @@
+level1:
+
+command used: curl http://127.0.0.1:80
+Explanation: (write one or few lines)
+Flag: pwn.college{IyVBYXApUkJOnlO5b6sidNsaRDe.dhjNyMDL4gzN2UzW}
+
+level2:
+
+***continue for remaining levels***
