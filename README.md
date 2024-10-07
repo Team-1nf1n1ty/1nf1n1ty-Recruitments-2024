@@ -86,7 +86,7 @@ Bonus points if you are able to take the inputs using command line arguments !!
 Once you are done, create a folder called "Python" in the repo you created earlier, and push your code into that folder. Also add output screenshots in the same folder.
 **Please note that sharing your solutions with other participants is strictly prohibited and may lead to your disqualification from the recruitment process**
 
-That is all about the 3 tasks you need to finish! Once you complete and document them, you will need to give us collaborator access. To do that, follow the steps outlined below.
+That is all about the 3 tasks you need to finish! Make sure to go through the sample submission before you start the documentation. Once you complete the tasks and document them, you will need to give us collaborator access. To do that, follow the steps outlined below.
 
 1. Go to repo settings
 2. Click on Collaborators in the sidebar
