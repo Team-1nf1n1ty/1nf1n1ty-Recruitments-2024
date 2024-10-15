@@ -76,7 +76,7 @@ Menu
 2) Hexadecimal
 3) Binary
 4) Octal
-Enter the encoding scheme : 2
+Enter the encoding scheme : 1
 Enter encoded text : MW5mMW4xdHk=
 Decoded Text : 1nf1n1ty
 ```
